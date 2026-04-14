@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 # Ravuri Sivaram
 
@@ -38,10 +38,11 @@ Machine Learning Engineer and CS graduate student specializing in NLP, LLM fine-
   Automated data preparation and analytical workflows using Python and SQL, reducing prep time by ~80% and accelerating insight delivery from days to hours. Produced publication-ready visualizations and supported academic research reporting.
 
 ## Current Interests
-- Fine-tuning transformer models for domain-specific tasks
-- Knowledge graph construction and graph neural network research
-- Weak supervision, labeling strategy, and error analysis
-- Applied ML systems for healthcare and operational intelligence
+- AI system design and model fine-tuning
+- MLOps, experiment tracking, and production ML workflows
+- NLP, LLMs, and transformer-based applications
+- Graph neural networks and knowledge graph modeling
+- Model monitoring, evaluation, and reliability for real-world deployment
 
 ## Contact
 - Email: ravurisivarams@gmail.com
