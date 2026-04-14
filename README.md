@@ -45,4 +45,4 @@ Machine Learning Engineer and CS graduate student specializing in NLP, LLM fine-
 
 ## Contact
 - Email: ravurisivarams@gmail.com
-- LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/ravuri-sivaram/)
+- LinkedIn: [View Profile](https://www.linkedin.com/in/ravuri-sivaram/)
